@@ -1,10 +1,3 @@
-Jon Barron is a senior staff research scientist at Google, where he works on
-computer vision and machine learning. He received a PhD in Computer Science
-from the University of California, Berkeley in 2013, where he was advised by
-Jitendra Malik, and he received a Honours BSc in Computer Science from the
-University of Toronto in 2007. He received a National Science Foundation
-Graduate Research Fellowship in 2009, the C.V. Ramamoorthy Distinguished
-Research Award in 2013, the PAMI Young Researcher Award in 2020, and the
-Best Paper Honorable Mention at ECCV 2016, ECCV 2020, and ICCV 2021. His works
-have been selected as a focus paper for TPAMI (2016) and featured as a research
-highlight by the Communications of the ACM (2022).
+I am a Ph.D. student in the Electrical and Computer Engineering Department at Rice University. I am a member of the Scalable Health Lab. I work with Dr. Ashutosh Sabharwal and Dr. Ashok Veeraraghavan on developing mobile bio-behavioral sensing and inference technologies. I am a part of the research team of the NSF PATHSUP-ERC which aims at developing advanced health systems for underserved communities targeted for chronic diseases such as cardiovascular diseases and diabetes.
+
+My research interests are in bio-behavioral sensing and quantifying different dimensions of human behavior and physiology through signal processing, computer vision, and data science.
