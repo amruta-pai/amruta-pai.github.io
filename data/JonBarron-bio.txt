@@ -1,3 +1,0 @@
-I am a Ph.D. student in the Electrical and Computer Engineering Department at Rice University. I am a member of the Scalable Health Lab. I work with Dr. Ashutosh Sabharwal and Dr. Ashok Veeraraghavan on developing mobile bio-behavioral sensing and inference technologies. I am a part of the research team of the NSF PATHSUP-ERC which aims at developing advanced health systems for underserved communities targeted for chronic diseases such as cardiovascular diseases and diabetes.
-
-My research interests are in bio-behavioral sensing and quantifying different dimensions of human behavior and physiology through signal processing, computer vision, and data science.

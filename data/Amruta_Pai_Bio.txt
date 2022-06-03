@@ -1,0 +1,3 @@
+I am a Ph.D. candidate in the Electrical and Computer Engineering Department at Rice University. I am a member of the Scalable Health Lab. I work with Dr. Ashutosh Sabharwal. I am a part of the research team, PATHS-UP which aims at developing advanced health systems for underserved communities targeted for chronic diseases such as cardiovascular diseases and diabetes.
+
+My research interests are in bio-behavioral sensing and quantifying different dimensions of human behavior and physiology through signal processing, computer vision, and data science.
